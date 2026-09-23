@@ -1,0 +1,41 @@
+
+============================================================
+FITNESS & HEALTH DATA ANALYTICS SYSTEM
+SUMMARY REPORT
+============================================================
+
+GENERAL STATISTICS
+------------------
+Total Users: 99
+Total Records: 520
+
+HEALTH METRICS
+--------------
+Average Age: 34.19
+Average BMI: 25.72
+Average Daily Steps: 9235.05
+Average Sleep Hours: 6.99
+Average Water Intake: 3.08 Liters
+
+WORKOUT METRICS
+---------------
+Average Calories Burned: 403.56
+Average Workout Duration: 50.96 Minutes
+Most Popular Workout: Walking
+
+FITNESS ANALYSIS
+----------------
+Most Common Fitness Level: Beginner
+Most Active Age Group: 18-25
+Highest Performing City: Rawalpindi
+Top Fitness User: User_035
+Average Fitness Score: 41.32/100
+
+DATE ANALYSIS
+-------------
+Highest Activity Month: 2026-04
+Most Active Day of Week: Saturday
+
+============================================================
+END OF REPORT
+============================================================
